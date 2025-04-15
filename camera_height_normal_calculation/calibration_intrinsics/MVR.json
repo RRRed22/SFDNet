@@ -1,0 +1,16 @@
+{
+  "intrinsic": {
+    "aspect_ratio": 1.00045,
+    "cx_offset": 0.384268,
+    "cy_offset": -0.461036,
+    "height": 966.0,
+    "k1": 340.749,
+    "k2": -16.9704,
+    "k3": 20.9909,
+    "k4": 4.60924,
+    "model": "radial_poly",
+    "poly_order": 4,
+    "width": 1280.0
+  },
+  "name": "MVR"
+}

@@ -1,0 +1,16 @@
+{
+  "intrinsic": {
+    "aspect_ratio": 1.00014,
+    "cx_offset": 1.185,
+    "cy_offset": -3.36745,
+    "height": 966.0,
+    "k1": 342.234,
+    "k2": -18.6659,
+    "k3": 23.1572,
+    "k4": 4.28064,
+    "model": "radial_poly",
+    "poly_order": 4,
+    "width": 1280.0
+  },
+  "name": "MVL"
+}

@@ -1,0 +1,9 @@
+frame = 1
+latitude = -0.000727 # longitude = -0.000997 # altitude -0.008363
+velocity Vector3D(x=0.278238, y=5.141798, z=0.001937)
+angular_velocity Vector3D(x=-0.118055, y=-0.041785, z=-4.407839)
+Transform(Location(x=-111.032127, y=80.943199, z=-0.008363), Rotation(pitch=0.167476, yaw=88.295570, roll=0.056783))
+acceleration Vector3D(x=0.584322, y=1.136761, z=-0.137620)
+Compass:              178° SE
+Accelero: (  0.8, -0.5,  9.8)
+Gyroscop: (  0.0, -0.1, -3.5)
